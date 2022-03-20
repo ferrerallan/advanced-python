@@ -1,7 +1,7 @@
 # advanced-python
 This is a proof-of-concept project applying various designs, architectures and technologies such as:
 - Django
-- clean architecture
+- Clean architecture
 - Design Patterns
 - Integration with Firebase
 - Integration with REDIS
